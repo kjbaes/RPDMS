@@ -1,0 +1,249 @@
+[
+    {
+        "municipality" : "Ajuy",
+        "code" : "063001000",
+        "income-class": "2nd",
+        "population": 53462
+    },
+    {
+        "municipality" : "Alimodian",
+        "code" : "063002000",
+        "income-class": "3rd",
+        "population": 39722
+    },
+    {
+        "municipality" : "Anilao",
+        "code" : "063003000",
+        "income-class": "4th",
+        "population": 30520
+    },
+    {
+        "municipality" : "Badiangan",
+        "code" : "063004000",
+        "income-class": "4th",
+        "population": 27056
+    },
+    {
+        "municipality" : "Balasan",
+        "code" : "063005000",
+        "income-class": "4th",
+        "population": 35064
+    },
+    {
+        "municipality" : "Banate",
+        "code" : "063006000",
+        "income-class": "4th",
+        "population": 33376
+    },
+    {
+        "municipality" : "Barotac Nuevo",
+        "code" : "063007000",
+        "income-class": "2nd",
+        "population": 58176
+    },
+    {
+        "municipality" : "Barotac Viejo",
+        "code" : "063008000",
+        "income-class": "3rd",
+        "population": 48614
+    },
+    {
+        "municipality" : "Batad",
+        "code" : "063009000",
+        "income-class": "5th",
+        "population": 22157
+    },
+    {
+        "municipality" : "Bingawan",
+        "code" : "063010000",
+        "income-class": "5th",
+        "population": 16110
+    },
+    {
+        "municipality" : "Cabatuan",
+        "code" : "063012000",
+        "income-class": "2nd",
+        "population": 61110
+    },
+    {
+        "municipality" : "Calinog",
+        "code" : "063013000",
+        "income-class": "1st",
+        "population": 62853
+    },
+    {
+        "municipality" : "Carles",
+        "code" : "063014000",
+        "income-class": "2nd",
+        "population": 72637
+    },
+    {
+        "municipality" : "Conception",
+        "code" : "063015000",
+        "income-class": "3rd",
+        "population": 44633
+    },
+    {
+        "municipality" : "Dingle",
+        "code" : "063016000",
+        "income-class": "3rd",
+        "population": 45965
+    },
+    {
+        "municipality" : "Dueñas",
+        "code" : "063017000",
+        "income-class": "4th",
+        "population": 34597
+    },
+    {
+        "municipality" : "Dumangas",
+        "code" : "063018000",
+        "income-class": "1st",
+        "population": 73899
+    },
+    {
+        "municipality" : "Estancia",
+        "code" : "063019000",
+        "income-class": "2nd",
+        "population": 53200
+    },
+    {
+        "municipality" : "Guimbal",
+        "code" : "063020000",
+        "income-class": "2nd",
+        "population": 53200
+    },
+    {
+        "municipality" : "Janiuay",
+        "code" : "063023000",
+        "income-class": "1st",
+        "population": 66786
+    },
+    {
+        "municipality" : "Lambunao",
+        "code" : "063025000",
+        "income-class": "1st",
+        "population": 81236
+    },
+    {
+        "municipality" : "Leganes",
+        "code" : "063026000",
+        "income-class": "4th",
+        "population": 34725
+    },
+    {
+        "municipality" : "Lemery",
+        "code" : "063027000",
+        "income-class": "4th",
+        "population": 31414
+    },
+    {
+        "municipality" : "Leon",
+        "code" : "063028000",
+        "income-class": "2nd",
+        "population": 51990
+    },
+    {
+        "municipality" : "Maasin",
+        "code" : "063029000",
+        "income-class": "3rd",
+        "population": 38461
+    },
+    {
+        "municipality" : "Miagao",
+        "code" : "063030000",
+        "income-class": "1st",
+        "population": 68115
+    },
+    {
+        "municipality" : "Mina",
+        "code" : "063031000",
+        "income-class": "5th",
+        "population": 24042
+    },
+    {
+        "municipality" : "New Lucena",
+        "code" : "063032000",
+        "income-class": "4th",
+        "population": 24314
+    },
+    {
+        "municipality" : "Oton",
+        "code" : "063034000",
+        "income-class": "1st",
+        "population": 98509
+    },
+    {
+        "municipality" : "Pavia",
+        "code" : "063036000",
+        "income-class": "2nd",
+        "population": 70388
+    },
+    {
+        "municipality" : "Pototan",
+        "code" : "063037000",
+        "income-class": "1st",
+        "population": 78298
+    },
+    {
+        "municipality" : "San Dionisio",
+        "code" : "063038000",
+        "income-class": "4th",
+        "population": 39048
+    },
+    {
+        "municipality" : "San Enrique",
+        "code" : "063039000",
+        "income-class": "3rd",
+        "population": 36911
+    },
+    {
+        "municipality" : "San Joaquin",
+        "code" : "063040000",
+        "income-class": "2nd",
+        "population": 52617
+    },
+    {
+        "municipality" : "San Miguel",
+        "code" : "063041000",
+        "income-class": "4th",
+        "population": 30115
+    },
+    {
+        "municipality" : "San Rafael",
+        "code" : "063042000",
+        "income-class": "5th",
+        "population": 17795
+    },
+    {
+        "municipality" : "Santa Barbara",
+        "code" : "063043000",
+        "income-class": "2nd",
+        "population": 67630
+    },
+    {
+        "municipality" : "Sara",
+        "code" : "063044000",
+        "income-class": "2nd",
+        "population": 54637
+    },
+    {
+        "municipality" : "Tigbuan",
+        "code" : "063045000",
+        "income-class": "2nd",
+        "population": 65245
+    },
+    {
+        "municipality" : "Tubungan",
+        "code" : "063046000",
+        "income-class": "4th",
+        "population": 23021
+    },
+    {
+        "municipality" : "Zarraga",
+        "code" : "063047000",
+        "income-class": "4th",
+        "population": 27305
+    }
+    
+]

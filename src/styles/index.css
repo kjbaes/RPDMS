@@ -1,0 +1,43 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.scrollbar {
+  scrollbar-width: thin;
+}
+
+::-webkit-scrollbar-track {
+  padding: 10px 0;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  height: 5px;
+  margin-top: 5px;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.pagination a {
+  padding: 5px;
+  /* border: 1px solid #ffd303; */
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin: 3px;
+  color: #80848e;
+}
+
+.active a {
+  color: #43454b;
+  background: #c7c4b6;
+}
+
+.animate-on-transforms {
+  /* animate list item reorder */
+  transition: transform 300ms ease;
+}
